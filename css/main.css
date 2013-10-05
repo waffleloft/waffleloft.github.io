@@ -10,8 +10,10 @@ body {
   margin: 0 auto;
   padding: 40px;
   width: 700px;
+  border-radius: 2px;
   text-transform: uppercase;
   text-align: center;
+  font-weight: 300;
   font-size: 70px;
   opacity: 0;
 }
