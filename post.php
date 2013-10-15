@@ -27,7 +27,7 @@ if(trim($name) == '') {
 if(trim($message) == '') {
 	echo '<div class="notification error clearfix"><p><strong>Attention!</strong> Please enter your message.</p></div>';
 	exit();
-} 
+}
 
 if(get_magic_quotes_gpc()) {
 	$message = stripslashes($message);
@@ -38,7 +38,7 @@ if(get_magic_quotes_gpc()) {
 // Enter the email address that you want to emails to be sent to.
 // Example $address = "joe.doe@yourdomain.com";
 
-$address = "joe.doe@yourdomain.com";
+$address = "chase@waffleloft.com";
 
 
 // Configuration option.

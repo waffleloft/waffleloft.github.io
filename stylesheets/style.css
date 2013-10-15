@@ -444,7 +444,7 @@ nav {
 -------------------------------------------------------------- */
 
 .ajax-section { position: relative; }
-.loader { display: none; background: #fff url(../images/loading.gif) no-repeat center 250px; width: 100%; height: 100%; position: absolute; z-index: 200; }
+.loader { display: none; background: #fff url(../images/ajax-loader.gif) no-repeat center 250px; width: 100%; height: 100%; position: absolute; z-index: 200; }
 .project-hero { position: relative; }
 .closeProject { position: absolute; bottom: 0px; left: 50%; margin-left: -20px; z-index: 200; }
 .nextProject { position: absolute; top: 67%; right: -100px; z-index: 200; }
